@@ -27,4 +27,4 @@ Open the index.html file in your browser to start the game.
 ```
 ## Ekran Görüntüleri
 
-![Oyun Ekranı](picture.png)
+![Oyun Ekranı](picture.PNG)
